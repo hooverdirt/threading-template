@@ -1,6 +1,6 @@
 # DISCLAIMER
 
-This is my own code but was used as a model for use in products.
+This is my own code but the idea for it was used as a model for some of the products.
 
 # History
 
